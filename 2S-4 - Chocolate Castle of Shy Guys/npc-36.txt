@@ -1,0 +1,13 @@
+width=48
+height=84
+gfxwidth=48
+gfxheight=88
+frames=5
+framespeed=6
+framestyle=2
+playerblocktop=0
+nofireball=1
+noiceball=1
+grabtop=0
+jumphurt=1
+noyoshi=1

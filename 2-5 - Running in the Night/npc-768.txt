@@ -1,0 +1,11 @@
+gfxoffsety=0
+gfxwidth=32
+gfxheight=32
+foreground=1
+width=32
+height=32
+score=7
+noyoshi=1
+lightradius=64
+lightcolor=white
+lightbrightness=0.5

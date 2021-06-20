@@ -1,0 +1,12 @@
+gfxwidth=64
+gfxheight=72
+width=64
+height=76
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblocktop=0
+jumphurt=1
+nohurt=0
+noblockcollision=1
+frames=1

@@ -1,0 +1,2 @@
+effectid = 751
+coinnpcid = 752

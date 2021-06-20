@@ -1,0 +1,3 @@
+gfxheight=70
+height=70
+health=25

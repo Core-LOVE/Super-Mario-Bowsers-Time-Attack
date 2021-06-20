@@ -1,0 +1,22 @@
+{
+	"style" : "groupbox",
+	"title" : "Icicle Settings",
+	"layout": [
+		{
+			"control": "combobox",
+			"name": "type",
+			"title": "Type",
+			"tooltip": "Type of the icicle AI it uses.",
+			"elements": ["Fragile and Falling", "Persistent and Falling", "Stick to Ceiling"],
+			"value-default": 0
+		},
+		{
+			"control": "checkbox",
+			"name": "respawnable",
+			"title": "Respawns?",
+			"tooltip": "Does the icicle respawn? (Respawn timer is changable from 'respawntimer' in the NPC configuration.)",
+			"value-default": true
+		}
+	]
+}
+

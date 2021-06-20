@@ -1,0 +1,3 @@
+lightradius=128
+lightbrightness=3
+lightcolor=yellow

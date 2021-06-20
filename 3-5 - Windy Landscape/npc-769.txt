@@ -1,0 +1,9 @@
+name = "SMB1 Fireball"
+image = "npc-769.png"
+width = 16
+height = 16
+frames = 4
+grid = 16
+spinjumpsafe = true
+jumphurt = true
+noblockcollision = true

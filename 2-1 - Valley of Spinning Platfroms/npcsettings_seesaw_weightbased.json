@@ -1,0 +1,27 @@
+{
+	"style": "groupbox",
+	"title": "Seesaw Settings",
+	"layout": [
+		{
+			"control": "spinBox",
+			"type": "int",
+		  	"name": "length",
+		  	"title": "Length",
+			"tooltip": "How many blocks wide the platform is.",
+			"value-default": 5,
+			"value-min": 2,
+			"value-max": 4096
+		},
+		{
+			"control": "spinBox",
+			"type": "double",
+			"name": "pivot",
+			"title": "Pivot Point",
+			"tooltip": "The pivot point that all of the platform's rotation is based off of. It can be between 0 and 1, where 0 is the very left and 1 is the very right.",
+			"value-default": 0.5,
+			"value-max": 1,
+			"value-min": 0,
+			"decimals": 2
+		}
+	]
+}

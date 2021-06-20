@@ -1,0 +1,5 @@
+priority=-84
+lightradius=128
+lightbrightness=0.5
+lightcolor=white
+lightoffset=45

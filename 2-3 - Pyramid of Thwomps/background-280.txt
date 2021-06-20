@@ -1,0 +1,4 @@
+priority=-84
+lightradius=96
+lightbrightness=1
+lightcolor=white

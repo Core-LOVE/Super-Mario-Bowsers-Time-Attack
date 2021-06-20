@@ -1,0 +1,4 @@
+gfxoffsety=-2
+frames=2
+framespeed=6
+framestyle=1

@@ -1,0 +1,3 @@
+lightradius=256
+lightbrightness=2
+lightcolor=red

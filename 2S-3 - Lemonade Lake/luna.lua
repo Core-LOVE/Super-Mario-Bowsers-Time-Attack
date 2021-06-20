@@ -1,0 +1,1 @@
+local spawnzones = require("local_spawnzones")

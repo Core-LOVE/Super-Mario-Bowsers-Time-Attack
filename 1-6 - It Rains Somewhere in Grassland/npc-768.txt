@@ -1,0 +1,13 @@
+name = "MF Piranha Plant"
+image = "npc-768.png"
+width = 32
+height = 48
+frames = 2
+spinjumpsafe = false
+jumphurt = true
+nohurt = true
+nogravity = true
+noblockcollision = true
+grid = 16
+nofireball = false
+noiceball = false

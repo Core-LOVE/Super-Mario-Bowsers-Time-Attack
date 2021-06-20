@@ -1,0 +1,7 @@
+width=264
+height=252
+playerblock=0
+playerblocktop=0
+jumphurt=1
+noblockcollision=1
+foreground=1

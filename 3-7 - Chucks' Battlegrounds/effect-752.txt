@@ -1,0 +1,10 @@
+[first]
+onTick=TICK_ARC
+gravity=0.2
+width=32
+height=28
+framespeed=3
+framestyle=1
+frames=1
+priority=-5
+lifetime=500

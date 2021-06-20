@@ -1,0 +1,6 @@
+gfxoffsety=0
+gfxheight=44
+height=44
+playerblock=0
+npcblock=0
+grabside=0

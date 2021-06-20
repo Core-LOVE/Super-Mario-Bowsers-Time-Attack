@@ -1,0 +1,16 @@
+{
+	"style" : "groupbox",
+	"title" : "Twister Settings",
+	"layout": [
+		{
+			"control": "spinBox",
+			"type": "int",
+			"name": "wheight",
+			"title": "Wind's Height",
+			"value-default": 160,
+			"value-min": 64,
+			"value-max": 256,
+			"single-step": 1
+		}
+	]
+}

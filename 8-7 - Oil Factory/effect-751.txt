@@ -1,0 +1,7 @@
+[1]
+import=AI_ARC
+frames=2
+framestyle=1
+framespeed=8
+width=32
+height=32

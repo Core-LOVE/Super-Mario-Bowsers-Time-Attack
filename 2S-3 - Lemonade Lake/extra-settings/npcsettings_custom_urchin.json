@@ -1,0 +1,22 @@
+{
+	"style" : "groupbox",
+	"title" : "Urchin Settings",
+	"layout": [
+		{
+			"control": "combobox",
+			"name": "xdir",
+			"title": "Horizontal Direction",
+			"tooltip": "Determines the initial horizontal speed of the urchin.",
+			"elements": ["Left", "None", "Right"],
+			"value-default": 1
+		},
+		{
+			"control": "combobox",
+			"name": "ydir",
+			"title": "Vertical Direction",
+			"tooltip": "Determines the initial vertical speed of the urchin.",
+			"elements": ["Up", "None", "Down"],
+			"value-default": 1
+		}
+	]
+}

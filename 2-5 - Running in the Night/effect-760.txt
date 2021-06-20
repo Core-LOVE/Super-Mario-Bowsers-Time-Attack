@@ -1,0 +1,9 @@
+[first]
+import=AI_SINGLE_DOUBLESPEED
+framespeed=9
+frames=2
+lifetime=200
+speedX=-1:1
+speedY=-1.5:-2.5
+rotation=-4:4
+gravity=-0.1

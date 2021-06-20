@@ -1,0 +1,11 @@
+[first]
+onTick=TICK_ARC
+gravity=0.3
+speedY=-7
+speedX=3
+framespeed=8
+frames=1
+framestyle=1
+lifetime=500
+maxSpeedY=10
+direction=1

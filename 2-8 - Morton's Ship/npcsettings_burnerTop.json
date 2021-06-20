@@ -1,0 +1,14 @@
+{
+	"style" : "groupbox",
+	"title" : "Top Burner Settings",
+	"layout": [
+		{
+			"control": "checkbox",
+			"name": "activateOnWalk",
+			"title": "Activate on Walk?",
+			"tooltip": "Does the Burner activate when stepped on? (uses timer if not checked)",
+			"value-default": false
+		}
+	]
+}
+

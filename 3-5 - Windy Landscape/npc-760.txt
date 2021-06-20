@@ -1,0 +1,3 @@
+gfxheight=48
+foreground=1
+height=48

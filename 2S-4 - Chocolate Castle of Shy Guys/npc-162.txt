@@ -1,0 +1,10 @@
+width=32
+height=100
+gfxwidth=48
+gfxheight=122
+nofireball=1
+frames=23
+framespeed=3
+framestyle=1
+speed=1
+spinjumpsafe=false

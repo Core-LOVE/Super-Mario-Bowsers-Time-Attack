@@ -1,0 +1,11 @@
+playerblocktop=1
+npcblocktop=1
+grabside=0
+grabtop=0
+speed=3.5
+nofireball=1
+nogravity=1
+frames=2
+framespeed=3
+framestyle=1
+noblockcollision=1

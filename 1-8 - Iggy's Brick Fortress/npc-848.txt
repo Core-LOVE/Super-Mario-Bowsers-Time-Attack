@@ -1,0 +1,6 @@
+width=96
+height=96
+frames=8
+nogravity = true
+noblockcollision=true
+jumphurt = true

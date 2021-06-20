@@ -1,0 +1,16 @@
+gfxwidth=129
+gfxheight=154
+width=129
+height=130
+gfxoffsety=24
+frames=2
+framestyle=1
+image="npc-847.png"
+nogravity=true
+noblockcollision=true
+nohurt = true
+jumphurt = true
+speed=1
+foreground=true
+noyoshi=true
+framespeed = 16

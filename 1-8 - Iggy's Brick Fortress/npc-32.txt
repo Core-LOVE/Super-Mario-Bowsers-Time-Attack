@@ -1,0 +1,6 @@
+gfxoffsety=0
+grabside=0
+grabtop=0
+frames=4
+framespeed=8
+framestyle=0
